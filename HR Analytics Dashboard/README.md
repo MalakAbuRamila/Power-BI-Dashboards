@@ -18,9 +18,10 @@ data-driven decisions on retention and recruitment.
 - DAX measures
 
 ## Dashboard Content
-**Slicer** for Departments.<br>
+**Slicer** for Departments.<br><br>
 **KPI's:** Count of Employees, Attrition, Attrition Rate, Average Age, Average Salary and Years at Company.<br>
-**Visuals:**
+<br>
+**Visuals:** 
 1. Attrition by Gender (Stacked Bar Chart)
 2. Attrition by Education (Donut Chart)
 3. Number of Employees by Age (Clustered Column Chart)

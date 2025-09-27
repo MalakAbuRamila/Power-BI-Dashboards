@@ -18,8 +18,10 @@ and understand the relationship between price, discounts, and ratings.
 
 ## Dashboard Content
 **Slicers:** Category, Rating Count, Discounted Price. Discount Tier.<br>
+<br>
 **KPI's:** Average Discounted Price, Average Discount %, Average Rating, Unique Products.<br>
-**Visuals:**<br>
+<br>
+**Visuals:**
 1. Top 10 Product Categories by Average Rating & Discount Percentage(Stacked Column Chart)
 2. Product Rating vs Actual Price (Scatter Plot)
 3. Average Discount Percentage Across Price Ranges (Clustered Column Chart)

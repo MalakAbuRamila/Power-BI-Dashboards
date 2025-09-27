@@ -17,7 +17,7 @@ and understand the relationship between price, discounts, and ratings.
 - DAX measures
 
 ## Dashboard Content
-**Slicers:** Category, Rating Count, Discounted Price. Discount Tier.<b>
+**Slicers:** Category, Rating Count, Discounted Price. Discount Tier.<br>
 **KPI's:** Average Discounted Price, Average Discount %, Average Rating, Unique Products.<br>
 **Visuals:**<br>
 1. Top 10 Product Categories by Average Rating & Discount Percentage(Stacked Column Chart)
